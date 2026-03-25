@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Minhong+Cho+%F0%9F%91%8B;CS+%40+Georgia+Tech;Software+%26+Data+Engineer+%40+YD%26S;Building+systems+that+turn+data+into+decisions" alt="Typing SVG" />
+
+# Minhong Cho
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=Software+%26+Data+Engineer+%40+YD%26S+Co.%2C+Ltd.;CS+%40+Georgia+Tech;ETL+Pipelines+%C2%B7+REST+APIs+%C2%B7+Spatial+Analysis+%C2%B7+ML;Seoul+%E2%86%94+Atlanta" alt="Typing SVG" />
+
 </div>
 
 <p align="center">
@@ -80,7 +84,7 @@ Bilingual: **English · Korean**
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chokyler01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="155" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chokyler01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="155" />
   &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chokyler01&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="155" />
 </div>
